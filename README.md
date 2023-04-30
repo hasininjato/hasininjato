@@ -1,4 +1,4 @@
-Hi all, I'm @Rojovao.  
-Python/PHP/JS developer, computer science student. 
-Currently learning some backend tools and framework.  
+I'm @Rojovao.  
+An enthusiastic junior web developer.
+Currently a PHP developer.  
 Motivated to keep learning new stack.
